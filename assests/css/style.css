@@ -1,1 +1,26 @@
-/* This is the css file */
+
+.NameTable{
+    border: solid 1px #000;
+    border-collapse: collapse;
+}
+
+.gowrirow{
+    color: antiquewhite;
+    background-color: #f7e062;
+}
+.sugrow{
+    color: antiquewhite;
+    background-color: #f79c6a;
+}
+.durrow{
+    color: antiquewhite;
+    background-color: #b9f762;
+}
+.balrow{
+    color: antiquewhite;
+    background-color: #7eb7f9;
+}
+.kumrow{
+    color: antiquewhite;
+    background-color: #f591bc;
+}
